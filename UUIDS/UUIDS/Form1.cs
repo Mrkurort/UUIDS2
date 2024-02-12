@@ -34,7 +34,27 @@ namespace UUIDS
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            Close();
+            var quit = MessageBox.Show("Вы действительно хотите закрыть?", "Закрыть",MessageBoxButtons.YesNo ,MessageBoxIcon.Question);
+            if (quit == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+            Hide();
+        }
+
+        private void guna2ControlBox1_Click(object sender, EventArgs e)
+        {
+            var quit = MessageBox.Show("Вы действительно хотите закрыть?", "Закрыть", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (quit == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }

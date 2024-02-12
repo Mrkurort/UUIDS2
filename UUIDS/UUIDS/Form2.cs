@@ -16,5 +16,12 @@ namespace UUIDS
         {
             InitializeComponent();
         }
+
+        private void guna2ControlBox1_Click(object sender, EventArgs e)
+        {
+            Form1 form1 = new Form1();
+            Close();
+            form1.Show();
+        }
     }
 }
