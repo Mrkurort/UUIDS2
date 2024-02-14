@@ -12,3 +12,4 @@ C:\Users\0_311_5\Desktop\UUIDS\UUIDS\UUIDS\obj\Debug\UUIDS.csproj.CoreCompileInp
 C:\Users\0_311_5\Desktop\UUIDS\UUIDS\UUIDS\obj\Debug\UUIDS.csproj.CopyComplete
 C:\Users\0_311_5\Desktop\UUIDS\UUIDS\UUIDS\obj\Debug\UUIDS.exe
 C:\Users\0_311_5\Desktop\UUIDS\UUIDS\UUIDS\obj\Debug\UUIDS.pdb
+C:\Users\0_311_5\Desktop\UUIDS\UUIDS\UUIDS\obj\Debug\UUIDS.Form3.resources
